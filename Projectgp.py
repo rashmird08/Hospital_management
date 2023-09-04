@@ -1,5 +1,6 @@
 import os
 txt_files = []
+txt_files2 = []
 def Switch_case(choice):
     if choice==1:
         add_Patient_Record()
@@ -128,4 +129,4 @@ while(True):
     Switch_case(choice)
     if choice == 5:
         break;
-
+#Hey
