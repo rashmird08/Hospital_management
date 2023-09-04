@@ -1,6 +1,7 @@
 import os
 txt_files = []
 txt_files2 = []
+txt_files2 = []
 def Switch_case(choice):
     if choice==1:
         add_Patient_Record()
